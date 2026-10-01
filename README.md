@@ -292,7 +292,7 @@ Possible future improvements include:
 
 ## 📌 Conclusion
 
-The Zepto SQL Analysis project demonstrates how SQL can be used to explore, clean, transform, and analyze product-level data to answer practical business questions.
+The Zepto SQL Analysis project demonstrates how SQL can be used to explore, Clean, transform, and analyze product-level data to answer practical business questions.
 
 The project combines **SQL analysis with Power BI visualization**, making it a useful portfolio project for demonstrating practical **Data Analyst skills**.
 
